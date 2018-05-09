@@ -1,7 +1,9 @@
 // ==UserScript==
 // @name         JIRA: Count Story Points Per User
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
+// @updateURL    https://raw.githubusercontent.com/bwmarkle/monkey-scripts/master/jira-count-story-points-per-user.js
+// @downloadURL  https://raw.githubusercontent.com/bwmarkle/monkey-scripts/master/jira-count-story-points-per-user.js
 // @description  This script counts all the story points and displays them per user.
 // @author       bradm
 // @match        https://jira.imhdev.com/issues/*
